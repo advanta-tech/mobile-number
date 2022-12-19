@@ -1,18 +1,18 @@
 {
-    "name": "nixoncode/mobile-number",
-    "description": "Parse Mobile number filters and validates kenyan numbers",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Nixon Kosgei",
-            "email": "nkosgey6@gmail.com"
-        }
-    ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Nixon\\MobileNumber\\": "src/"
-        }
+  "name": "advantasms/mobile-number",
+  "description": "Parse Mobile number filters and validates kenyan numbers",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nixon Kosgei",
+      "email": "nkosgey6@gmail.com"
     }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Nixon\\MobileNumber\\": "src/"
+    }
+  }
 }
